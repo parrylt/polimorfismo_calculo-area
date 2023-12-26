@@ -1,5 +1,5 @@
 # polimorfismo_calculo-area
-cálculo de área usando polimorfismo no c# no visual studio. Aula com profa Marlene.
+cálculo de área usando polimorfismo no c# no visual studio. Aula com profa Marlene na Etec de Guarulhos.
 <br>
 <div align="center">
   <h3>Calculando a área de um retângulo</h3>
